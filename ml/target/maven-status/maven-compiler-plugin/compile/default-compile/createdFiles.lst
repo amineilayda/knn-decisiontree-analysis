@@ -1,0 +1,16 @@
+com\example\machineLearning\DecisionTreeClassifier$Split.class
+com\example\evaluation\Evaluator.class
+com\example\machineLearning\KNNClassifier.class
+com\example\model\UserRecord.class
+com\example\Main.class
+com\example\util\PreProcessor.class
+com\example\evaluation\Metrics.class
+com\example\gui\MainFrame$ChartPanel.class
+com\example\model\Node.class
+com\example\util\DataLoader.class
+com\example\machineLearning\KNNClassifier$Neighbor.class
+com\example\machineLearning\BaseAlgorithm.class
+com\example\util\DataLoader$1.class
+com\example\gui\MainFrame.class
+com\example\machineLearning\DecisionTreeClassifier.class
+com\example\machineLearning\IClassifier.class
